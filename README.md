@@ -117,9 +117,5 @@ I would like to thank **Infosys** for providing the opportunity to gain hands-on
 
 **Name:** Aman Antuley  
 **Domain:** Data Analytics  
-**GitHub:** https://github.com/your-username  
+**GitHub:** https://github.com/amanantuley  
 
----
-
-⭐ If you find this repository useful, feel free to give it a star!
-```

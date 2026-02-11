@@ -1,0 +1,529 @@
+YEAR,STATE NAME,CONSTITUENCY NAME,CONSTITUENCY NO,WINNER CANDIDATE NAME,GENDER,PARTY NAME,PARTY SYMBOL,TOTAL ELECTORS,TOTAL NUMBER OF VOTERS (MARGIN),VOTE %,Category,TOTAL NUMBER OF VOTE CASTED
+1977,Maharashtra,Rajapur,1,Madhu Dandavate,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),536761,116382,67.89%,GEN,325328
+1977,Maharashtra,Ratnagiri,2,Parulekar Bapusaheb,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),548334,25300,53.94%,GEN,320708
+1977,Maharashtra,Kolaba,3,Dinkar Balu Patil,M,Peasants & Workers Party,Other,587580,53321,57.71%,GEN,345605
+1977,Maharashtra,Bombay South,4,Rajada Ratansingh Gokuldas,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),685196,64394,56.76%,GEN,399772
+1977,Maharashtra,Bombay South Central,5,Kamble Bapu Chandrasen,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),655937,53703,51.05%,GEN,381534
+1977,Maharashtra,Bombay North Central,6,Ahilya P. Rangnekar,F,Communist Party Of India (Marxist),Ears of Corn and Sickle,677049,69915,57.71%,GEN,395292
+1977,Maharashtra,Bombay North East,7,Subramaniam Swamy,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),697754,123122,61.34%,GEN,424980
+1977,Maharashtra,Bombay North West,8,Ram Jethmalani,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),643901,93499,61.09%,GEN,403409
+1977,Maharashtra,Bombay North,9,Gore Mrinal Keshav,F,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),659985,147090,67.05%,GEN,415009
+1977,Maharashtra,Thane,10,Mhalgi Ramchandra Kashinath,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),722136,82746,59.03%,GEN,390497
+1977,Maharashtra,Dahanu,11,Kom Lahanu Shidava,M,Communist Party Of India (Marxist),Ears of Corn and Sickle,629624,52666,58.82%,ST,298410
+1977,Maharashtra,Nashik,12,Hande Vithalrao Ganpatrao,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),611491,11241,50.33%,GEN,326346
+1977,Maharashtra,Malegaon,13,Mahale Hari Shankar,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),553698,15437,51.91%,ST,278478
+1977,Maharashtra,Dhulia,14,Patil Vijaykumar Naval,M,Indian National Congress,Hand,552925,52149,56.83%,GEN,314507
+1977,Maharashtra,Nandurbar,15,Naik Surupsingh Hariya,M,Indian National Congress,Hand,520515,67440,61.00%,ST,306458
+1977,Maharashtra,Erandol,16,Patil Sonusing Dhansing,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),597821,13814,51.96%,GEN,351546
+1977,Maharashtra,Jalgaon,17,Borole Yashwant Mansaram,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),589742,12186,48.62%,GEN,350583
+1977,Maharashtra,Buldhana,18,Gawai Daulat Gunaji,M,Republician Party Of India (Khobragade),Free Symbol,580389,42855,53.62%,SC,342151
+1977,Maharashtra,Akola,19,Sathe Vasantrao Purushottam,M,Indian National Congress,Hand,589719,61499,55.44%,GEN,376008
+1977,Maharashtra,Washim,20,Naik Vasantrao Phulsing,M,Indian National Congress,Hand,537856,73157,60.01%,GEN,355499
+1977,Maharashtra,Amravati,21,Bonde Nana Mahadeo,M,Indian National Congress,Hand,581266,160662,71.62%,GEN,361716
+1977,Maharashtra,Ramtek,22,Barve Jatiramji Chaitramji,M,Indian National Congress,Hand,580036,42949,54.06%,GEN,364363
+1977,Maharashtra,Nagpur,23,Awari Gev Mancharsha,M,Indian National Congress,Hand,608981,41553,44.55%,GEN,386119
+1977,Maharashtra,Bhandara,24,Mankar Laxmanrao Bisanji,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),607535,51633,53.77%,GEN,392601
+1977,Maharashtra,Chimur,25,Thakur Krishnarao Dagoji,M,Indian National Congress,Hand,631759,62969,53.87%,GEN,436071
+1977,Maharashtra,Chandrapur,26,Raje Vishveshvarrao,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),594026,88986,55.80%,GEN,376285
+1977,Maharashtra,Wardha,27,Gode Santoshrao Vyankatrao,M,Indian National Congress,Hand,608615,116654,52.86%,GEN,415164
+1977,Maharashtra,Yeotmal,28,Jawade Shridharrao Natthobaji,M,Indian National Congress,Hand,574977,10297,49.23%,GEN,390446
+1977,Maharashtra,Hingoli,29,Patil Chandrakant Ramkrishna,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),596387,35751,46.72%,GEN,310357
+1977,Maharashtra,Nanded,30,Dhondge Keshavrao Shankarrao,M,Peasants & Workers Party,Other,649735,133820,67.91%,GEN,373652
+1977,Maharashtra,Parbhani,31,Deshmukh Sheshrao Apparao,M,Peasants & Workers Party,Other,574877,31539,46.78%,GEN,298503
+1977,Maharashtra,Jalna,32,Pundalik Hari Danve,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),615197,24574,53.92%,GEN,313082
+1977,Maharashtra,Aurangabad,33,Bapu Kaldate,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),656996,57089,56.47%,GEN,356003
+1977,Maharashtra,Beed,34,Burande Gangadhar Appa,M,Communist Party Of India (Marxist),Ears of Corn and Sickle,698692,51897,57.56%,GEN,343097
+1977,Maharashtra,Latur,35,Patil Uddhavrao Sahebrrao,M,Peasants & Workers Party,Other,605229,7851,50.76%,GEN,352276
+1977,Maharashtra,Osmanabad,36,Shrangare Tukaram Sadashiv,M,Indian National Congress,Hand,566631,61544,59.60%,SC,273382
+1977,Maharashtra,Solapur,37,Damani Surajratan Fatehchand,M,Indian National Congress,Hand,525311,34043,55.11%,GEN,332805
+1977,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian National Congress,Hand,618058,98452,65.93%,SC,308966
+1977,Maharashtra,Ahmednagar,39,Shinde Annasaheb Pandurang,M,Indian National Congress,Hand,575389,64813,55.38%,GEN,324234
+1977,Maharashtra,Kopargaon,40,Vikhe Eknathrao Vithalrao,M,Indian National Congress,Hand,510732,98544,66.88%,GEN,270656
+1977,Maharashtra,Khed,41,Annasaheb Magar,M,Indian National Congress,Hand,553342,19526,53.29%,GEN,296368
+1977,Maharashtra,Pune,42,Mohan Dharia,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),606601,48167,55.73%,GEN,376666
+1977,Maharashtra,Baramati,43,Sambhajirao Kakade,M,Bharatiya Lok Dal,Haldhar within Wheel (Chakra),632214,30700,54.09%,GEN,375596
+1977,Maharashtra,Satara,44,Chavan Yashvantrao Balwantrao,M,Indian National Congress,Hand,580157,191601,76.38%,GEN,341138
+1977,Maharashtra,Karad,45,Chavan Premlabai Dajisaheb,F,Indian National Congress,Hand,629569,170815,74.09%,GEN,328375
+1977,Maharashtra,Sangli,46,Gotkhinde Ganapatrao Tukaram,M,Indian National Congress,Hand,569335,56294,58.58%,GEN,327956
+1977,Maharashtra,Ichalkaranji,47,Mane Rajaram Alias Balasaheb Shankarrao,M,Indian National Congress,Hand,575336,33364,54.29%,GEN,389254
+1977,Maharashtra,Kolhapur,48,Desai Dajiba Balwantrao,M,Peasants & Workers Party,Other,551595,165,49.74%,GEN,374098
+1980,Maharashtra,Rajapur,1,Madhu Dandvate,M,Janta Party,Other,585603,145977,71.67%,GEN,331171
+1980,Maharashtra,Ratnagiri,2,Bapusaheb Parulekar,M,Janta Party,Other,596427,44161,51.77%,GEN,363653
+1980,Maharashtra,Kolaba,3,A. T. Patil,M,Indian Natioanl Congress (I),Hand,658873,49420,44.38%,GEN,361702
+1980,Maharashtra,Bombay South,4,Rajda Ratasinh Gokuldas,M,Janta Party,Other,683197,15170,50.21%,GEN,321734
+1980,Maharashtra,Bombay South Central,5,Bhole R. R.,M,Indian Natioanl Congress (I),Hand,686338,26888,35.89%,GEN,362905
+1980,Maharashtra,Bombay North Central,6,Pramila Madhu Dandvate,F,Janta Party,Other,769629,9811,45.25%,GEN,411833
+1980,Maharashtra,Bombay North East,7,Subramanian Swamy,M,Janta Party,Other,916054,38906,40.00%,GEN,498698
+1980,Maharashtra,Bombay North West,8,Ram Jethamalani,M,Janta Party,Other,823642,27055,51.17%,GEN,406042
+1980,Maharashtra,Bombay North,9,Ravindra Varma,M,Janta Party,Other,845233,64694,51.36%,GEN,451084
+1980,Maharashtra,Thane,10,Mhalgi Ramchandra Kashinath,M,Janta Party,Other,889904,10275,39.75%,GEN,467494
+1980,Maharashtra,Dahanu,11,Shinghada Damu Barku,M,Indian Natioanl Congress (I),Hand,715384,71158,52.43%,ST,277556
+1980,Maharashtra,Nashik,12,Wagh Pratap Deoram,M,Indian Natioanl Congress (I),Hand,732214,46255,53.47%,GEN,381796
+1980,Maharashtra,Malegaon,13,Khandole Zamaru Mangalu,M,Indian Natioanl Congress (I),Hand,648465,74993,59.80%,ST,298966
+1980,Maharashtra,Dhule,14,Bhoye Reshma Motiram,M,Indian Natioanl Congress (I),Hand,657330,112062,66.75%,ST,293643
+1980,Maharashtra,Nandurbar,15,Surupsing Hirya Naik,M,Indian Natioanl Congress (I),Hand,632340,90785,60.63%,ST,323825
+1980,Maharashtra,Erandol,16,Vijay Kumar Naval Patil,M,Indian Natioanl Congress (I),Hand,715273,128592,57.11%,GEN,389529
+1980,Maharashtra,Jalgaon,17,Yadav Shivram Mahajan,M,Indian Natioanl Congress (I),Hand,698261,96358,48.02%,GEN,409314
+1980,Maharashtra,Buldhana,18,Wasnik Balkrishna Ramchandra,M,Indian Natioanl Congress (I),Hand,672909,113096,52.48%,SC,335001
+1980,Maharashtra,Akola,19,Vairale Madhusudan Atmaram,M,Indian Natioanl Congress (I),Hand,668698,104025,58.59%,GEN,339724
+1980,Maharashtra,Washim,20,Gulam Nabi Azad,M,Indian Natioanl Congress (I),Hand,620782,151478,64.42%,GEN,380444
+1980,Maharashtra,Amravati,21,Usha Prakash Choudhari,F,Indian Natioanl Congress (I),Hand,648873,169630,71.68%,GEN,357026
+1980,Maharashtra,Ramtek,22,Barve Jatiram Chaitram,M,Indian Natioanl Congress (I),Hand,650601,214763,71.51%,GEN,383084
+1980,Maharashtra,Nagpur,23,Dhote Jambuwant Bapurao,M,Indian Natioanl Congress (I),Hand,751312,126443,53.85%,GEN,457542
+1980,Maharashtra,Bhandara,24,Pardhir Keshaorao Atmaramji,M,Indian Natioanl Congress (I),Hand,671565,99928,53.07%,GEN,452351
+1980,Maharashtra,Chimur,25,Muttemwar Vilas Babura,M,Indian Natioanl Congress (I),Hand,711541,138852,57.53%,GEN,478952
+1980,Maharashtra,Chandrapur,26,Shantaram Potdukhe,M,Indian Natioanl Congress (I),Hand,681948,72890,53.87%,GEN,383130
+1980,Maharashtra,Wardha,27,Vasantrao Sathe,M,Indian Natioanl Congress (I),Hand,685760,177509,68.64%,GEN,432636
+1980,Maharashtra,Yavatmal,28,Patil Uttamrao Deorao,M,Indian Natioanl Congress (I),Hand,650317,200180,71.42%,GEN,393972
+1980,Maharashtra,Hingoli,29,Uttamrao Baliramji Rathod,M,Indian Natioanl Congress (I),Hand,677384,117224,56.68%,GEN,360195
+1980,Maharashtra,Nanded,30,Chavan Shankarrao Bhaurao,M,Indian Natioanl Congress (I),Hand,754050,37542,51.81%,GEN,376428
+1980,Maharashtra,Parbhani,31,Yadav Ramrao Narayanrao,M,Indian Natioanl Congress (I),Hand,647714,98950,54.62%,GEN,316910
+1980,Maharashtra,Jalna,32,Balasaheb Pawar,M,Indian Natioanl Congress (I),Hand,696767,107126,53.33%,GEN,325338
+1980,Maharashtra,Aurangabad,33,Kazi Salem,M,Indian Natioanl Congress (I),Hand,756127,83748,50.91%,GEN,333385
+1980,Maharashtra,Beed,34,Kashirsagar Kesarbai Sonajirao Alias Kaku,F,Indian Natioanl Congress (I),Hand,808308,67503,55.26%,GEN,368929
+1980,Maharashtra,Latur,35,Shivraj Vishwanath Patil,M,Indian Natioanl Congress (I),Hand,680543,189867,59.71%,GEN,425320
+1980,Maharashtra,Osmanabad,36,Sawant Trimbak Marotrao,M,Indian Natioanl Congress (I),Hand,631772,92983,52.70%,SC,327317
+1980,Maharashtra,Sholapur,37,Kuchan Gangadhar Sidramappa,M,Indian Natioanl Congress (I),Hand,601206,104606,53.60%,GEN,380675
+1980,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian Natioanl Congress (I),Hand,706672,95653,57.65%,SC,365882
+1980,Maharashtra,Ahmednagar,39,Athare Chandrabhan Balaji,M,Indian Natioanl Congress (I),Hand,707563,180214,63.50%,GEN,410162
+1980,Maharashtra,Kopargaon,40,Vikhe Eknathrao Vithalrao,M,Indian Natioanl Congress (I),Hand,619224,159839,67.36%,GEN,417496
+1980,Maharashtra,Khed,41,More Ramkrishna Sadashiv,M,Indian Natioanl Congress (I),Hand,653048,50888,43.37%,GEN,325141
+1980,Maharashtra,Pune,42,Gadgil Vitthal Narhar,M,Indian Natioanl Congress (I),Hand,741735,28830,50.81%,GEN,423433
+1980,Maharashtra,Baramati,43,Patil Shankarrao Bajirao,M,Indian Natioanl Congress (I),Hand,766039,85868,47.46%,GEN,440993
+1980,Maharashtra,Satara,44,Chavan Yashvantrao Balawantrao,M,Indian National Congress (U),Hand,659862,53033,53.95%,GEN,413757
+1980,Maharashtra,Karad,45,Mohite Yashavantrao Jijava,M,Indian Natioanl Congress (I),Hand,704176,25415,51.45%,GEN,466946
+1980,Maharashtra,Sangli,46,Patil Vasantrao Banduji,M,Indian Natioanl Congress (I),Hand,663222,167645,69.74%,GEN,424733
+1980,Maharashtra,Ichalkaranji,47,Mane Rajaram Alias Balasaheb Shankarrao,M,Indian Natioanl Congress (I),Hand,686425,151051,59.26%,GEN,448715
+1980,Maharashtra,Kolhapur,48,Gaikwad Udayasingrao Nanasaheb,M,Indian Natioanl Congress (I),Hand,654754,154443,62.48%,GEN,393322
+1984,Maharashtra,Rajapur,1,Madhu Dandavate,M,Janata Party,Haldhar within Wheel (Chakra),612195,26131,48.26%,GEN,377215
+1984,Maharashtra,Ratnagiri,2,Husen Dalwai,M,Indian National Congress,Hand,617107,23845,43.93%,GEN,382140
+1984,Maharashtra,Kolaba,3,D. B. Patil,M,Peasants And Workers Party Of India,Cart,706929,37924,46.25%,GEN,456618
+1984,Maharashtra,Bombay South,4,Deora Murli,M,Indian National Congress,Hand,653042,105278,60.18%,GEN,332606
+1984,Maharashtra,Bombay South Central,5,Datta Samant,M,Independent,Free Symbol,648214,72611,41.26%,GEN,384933
+1984,Maharashtra,Bombay North Central,6,Dighe Sharad Shankar,M,Indian National Congress,Hand,790090,132098,48.44%,GEN,436526
+1984,Maharashtra,Bombay North East,7,Gurudas Kamat,M,Indian National Congress,Hand,1082419,96274,42.62%,GEN,642516
+1984,Maharashtra,Bombay North West,8,Sunil Dutt,M,Indian National Congress,Hand,878652,154640,60.67%,GEN,509312
+1984,Maharashtra,Bombay North,9,Anoopchand Khimchand Shah,M,Indian National Congress,Hand,992937,100124,56.05%,GEN,491595
+1984,Maharashtra,Thane,10,Ghopal Shantaram Gopal,M,Indian National Congress,Hand,975995,115390,58.73%,GEN,559696
+1984,Maharashtra,Dahanu,11,Shingada Damu Barku,M,Indian National Congress,Hand,774100,69720,47.50%,ST,350827
+1984,Maharashtra,Nashik,12,Mane Murlidhar Pandurang,M,Indian National Congress,Hand,791519,37546,45.16%,GEN,437177
+1984,Maharashtra,Malegaon,13,Bhoye Sitaram Sayaji,M,Indian National Congress,Hand,705668,38275,52.68%,ST,384231
+1984,Maharashtra,Dhule,14,Bhoye Reshama Motiram,M,Indian National Congress,Hand,706445,65932,56.19%,ST,390328
+1984,Maharashtra,Nandurbar,15,Gavit Manikrao Holdya,M,Indian National Congress,Hand,689376,157519,65.88%,ST,386045
+1984,Maharashtra,Erandol,16,Vijaykumar Naval Patil,M,Indian National Congress,Hand,778541,65155,48.44%,GEN,457277
+1984,Maharashtra,Jalgaon,17,Mahajan Yadav Shivram,M,Indian National Congress,Hand,759154,54465,51.24%,GEN,451845
+1984,Maharashtra,Buldhana,18,Wasnik Mukul Balkrishna,M,Indian National Congress,Hand,743946,48058,35.91%,SC,463003
+1984,Maharashtra,Akola,19,Madhusudan Atmaram Vairale,M,Indian National Congress,Hand,736060,13810,34.86%,GEN,513158
+1984,Maharashtra,Washim,20,Ghulam Nabi Azad,M,Indian National Congress,Hand,686573,10359,42.28%,GEN,467887
+1984,Maharashtra,Amravati,21,Choudhary Ushatai Prakash,F,Indian National Congress,Hand,702357,121746,52.24%,GEN,417125
+1984,Maharashtra,Ramtek,22,Narsimha Rao P. V.,M,Indian National Congress,Hand,705819,185972,65.00%,GEN,447579
+1984,Maharashtra,Nagpur,23,Banwarilal Bhagwandas Purohit,M,Indian National Congress,Hand,845805,130683,52.99%,GEN,554354
+1984,Maharashtra,Bhandara,24,Keshaorao Atmaramji Pardhi,M,Indian National Congress,Hand,709457,121704,53.15%,GEN,468835
+1984,Maharashtra,Chimur,25,Muttemwar Vilas Baburao,M,Indian National Congress,Hand,751666,172100,51.93%,GEN,543843
+1984,Maharashtra,Chandrapur,26,Potdukhe Shantaram Rajeshwar,M,Indian National Congress,Hand,771242,189155,56.63%,GEN,441488
+1984,Maharashtra,Wardha,27,Sathe Vasant Purushottam,M,Indian National Congress,Hand,723787,23423,48.96%,GEN,499127
+1984,Maharashtra,Yavatmal,28,Patil Uttamrao Deorao,M,Indian National Congress,Hand,711775,166202,63.63%,GEN,432116
+1984,Maharashtra,Hingoli,29,Rathode Uttamraoji Baliramji,M,Indian National Congress,Hand,727842,135091,54.87%,GEN,402842
+1984,Maharashtra,Nanded,30,Chavan Shankarrao Bhurao,M,Indian National Congress,Hand,820467,171524,59.85%,GEN,511356
+1984,Maharashtra,Parbhani,31,Yadav Ramrao Narayanrao,M,Indian National Congress,Hand,713367,88318,55.62%,GEN,382899
+1984,Maharashtra,Jalna,32,Balasaheb Ramrao Pawar,M,Indian National Congress,Hand,781442,66567,47.21%,GEN,394625
+1984,Maharashtra,Aurangabad,33,Sahebrao P.Dongaonkar,M,Indian Congress (Socialist),Bow and Arrow,849481,92419,51.06%,GEN,482029
+1984,Maharashtra,Beed,34,Kshirsagar Kehsarbai Sonajirao,F,Indian National Congress,Hand,866071,110362,48.54%,GEN,456168
+1984,Maharashtra,Latur,35,Patil Shivraj Vishwanath,M,Indian National Congress,Hand,754786,85537,54.43%,GEN,531815
+1984,Maharashtra,Osmanabad,36,Arvind Tulshiramji Kamble,M,Indian National Congress,Hand,680500,57128,53.13%,SC,396649
+1984,Maharashtra,Sholapur,37,Kuchan Gangadhar Sinramappa,M,Indian National Congress,Hand,663152,190632,61.49%,GEN,419646
+1984,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian National Congress,Hand,785735,90833,57.17%,SC,472272
+1984,Maharashtra,Ahmednagar,39,Gadakh Yeshwantrao Kankarrao,M,Indian National Congress,Hand,771205,100323,58.89%,GEN,478676
+1984,Maharashtra,Kopargaon,40,Vikhe Eknathrao Alias Balesaheb Vithalrao,M,Indian National Congress,Hand,669507,71485,57.60%,GEN,378438
+1984,Maharashtra,Khed,41,Ramkrishna More,M,Indian National Congress,Hand,693984,18024,49.82%,GEN,440451
+1984,Maharashtra,Pune,42,Gadil Vithalrao Narhari,M,Indian National Congress,Hand,788975,198354,60.38%,GEN,515541
+1984,Maharashtra,Baramati,43,Pawar Sharadchandra Govindrao,M,Indian Congress (Socialist),Bow and Arrow,859626,140532,60.63%,GEN,596407
+1984,Maharashtra,Satara,44,Bhosale Prataprao Baburao,M,Indian National Congress,Hand,712736,95520,58.48%,GEN,461882
+1984,Maharashtra,Karad,45,Chavan Premalabai Dajisaheb,F,Indian National Congress,Hand,758980,285268,83.09%,GEN,417120
+1984,Maharashtra,Sangli,46,Patil Prakash Vasantrao,M,Indian National Congress,Hand,717441,141693,65.18%,GEN,466711
+1984,Maharashtra,Ichalkaranji,47,Mane Balaso Alias Rajaram Shankarrao,M,Indian National Congress,Hand,755413,44138,53.78%,GEN,517775
+1984,Maharashtra,Kolhapur,48,Gaikwad Udaysingrao Nanasaheb,M,Indian National Congress,Hand,737957,149474,65.33%,GEN,424923
+1989,Maharashtra,Rajapur,1,Madhu Dandavate,M,Janata Dal,Arrow,741195,42370,52.88%,GEN,457088
+1989,Maharashtra,Ratnagiri,2,Nikam Govind Sawaji,M,Indian National Congress,Hand,764262,18488,49.12%,GEN,490126
+1989,Maharashtra,Kolaba,3,Antulay A. R.,M,Indian National Congress,Hand,938272,115434,53.51%,GEN,624079
+1989,Maharashtra,Bombay South,4,Deora Murli,M,Indian National Congress,Hand,730429,17739,45.78%,GEN,390967
+1989,Maharashtra,Bombay South Central,5,Vamanrao Mahadik,M,Independent,Free Symbol,799411,10466,35.91%,GEN,446064
+1989,Maharashtra,Bombay North Central,6,Vidyadhar Sambhaji Gokhale,M,Shiv Sena,Bow and Arrow,1007678,8185,44.91%,GEN,567431
+1989,Maharashtra,Bombay North East,7,Mehta Jayawanti Navinchandra,F,Bharatiya Janata Party,Lotus,1474388,71555,47.19%,GEN,877814
+1989,Maharashtra,Bombay North West,8,Sunil Dutt,M,Indian National Congress,Hand,1224733,72574,46.09%,GEN,686003
+1989,Maharashtra,Bombay North,9,Ram Naik,M,Bharatiya Janata Party,Lotus,1522476,100205,41.70%,GEN,869921
+1989,Maharashtra,Thane,10,Kapse Ramchandra Ganesh,M,Bharatiya Janata Party,Lotus,1554410,88264,53.57%,GEN,873452
+1989,Maharashtra,Dahanu,11,Damodar Baraku Shingada,M,Indian National Congress,Hand,1033327,24780,37.55%,ST,523980
+1989,Maharashtra,Nashik,12,Aher Daula Sonuji,M,Bharatiya Janata Party,Lotus,1051786,30653,51.06%,GEN,562644
+1989,Maharashtra,Malegaon,13,Mahale Haribhau,M,Janata Dal,Arrow,913648,14054,50.96%,ST,461902
+1989,Maharashtra,Dhule,14,Bhoy Reshma Motiram,M,Indian National Congress,Hand,897783,22567,48.97%,ST,435054
+1989,Maharashtra,Nandurbar,15,Gavit Mankrao Hodlya,M,Indian National Congress,Hand,885274,106466,52.23%,ST,461301
+1989,Maharashtra,Erandol,16,Patil Uttamrao Laxmanrao,M,Bharatiya Janata Party,Lotus,951004,4557,43.25%,GEN,501883
+1989,Maharashtra,Jalgaon,17,Mahajan Yadav Shivram,M,Indian National Congress,Hand,945499,5436,34.54%,GEN,605047
+1989,Maharashtra,Buldhana,18,Kale Sukhdeo Nandaji,M,Bharatiya Janata Party,Lotus,908190,65994,50.84%,SC,586168
+1989,Maharashtra,Akola,19,Phundkar Pandurang Pundlik,M,Bharatiya Janata Party,Lotus,930019,151369,49.08%,GEN,656861
+1989,Maharashtra,Washim,20,Deshmukh Anantrao Vitthalrao,M,Indian National Congress,Hand,853576,135854,55.34%,GEN,554649
+1989,Maharashtra,Amravati,21,Sudam Deshmukh,M,Communist Party Of India,Ears of Corn and Sickle,929879,140239,59.02%,GEN,524694
+1989,Maharashtra,Ramtek,22,P.V. Narsimharao,M,Indian National Congress,Hand,897196,34470,45.45%,GEN,567162
+1989,Maharashtra,Nagpur,23,Purhit Banwarilal Bhagwandas,M,Indian National Congress,Hand,1183672,90000,38.85%,GEN,713718
+1989,Maharashtra,Bhandara,24,Khushal Parasram Sopche,M,Bharatiya Janata Party,Lotus,857992,40094,47.47%,GEN,602189
+1989,Maharashtra,Chimur,25,Shiwnkar Manoharrao Sukaji,M,Bharatiya Janata Party,Lotus,913813,33604,41.62%,GEN,704897
+1989,Maharashtra,Chandrapur,26,Potdukhe Shantaram Rajeshwar,M,Indian National Congress,Hand,986600,50457,40.13%,GEN,607702
+1989,Maharashtra,Wardha,27,Sathe Vasant Purushottam,M,Indian National Congress,Hand,920961,25830,37.83%,GEN,586923
+1989,Maharashtra,Yavatmal,28,Uttamrao Deorao Patil,M,Indian National Congress,Hand,890474,26739,43.85%,GEN,521600
+1989,Maharashtra,Hingoli,29,Uttam Rathod,M,Indian National Congress,Hand,930557,71170,54.12%,GEN,501800
+1989,Maharashtra,Nanded,30,Kabde Venkatesh Rukhmaji,M,Janata Dal,Arrow,1065156,24113,49.27%,GEN,564849
+1989,Maharashtra,Parbhani,31,Deshmukh Ashok Anandrao,M,Independent,Free Symbol,928898,66384,44.21%,GEN,519254
+1989,Maharashtra,Jalna,32,Pundlik Hari Danwe,M,Bharatiya Janata Party,Lotus,990208,61965,53.41%,GEN,581711
+1989,Maharashtra,Aurangabad,33,Moroshwar Save,M,Independent,Free Symbol,1145802,17824,48.26%,GEN,668214
+1989,Maharashtra,Beed,34,Dhakno Babanrao Dadaba,M,Janata Dal,Arrow,1111872,1985,37.79%,GEN,607293
+1989,Maharashtra,Latur,35,Patil Shivraj Vishwanath,M,Indian National Congress,Hand,979858,43855,50.36%,GEN,605103
+1989,Maharashtra,Osmanabad,36,Kamble Arvind Tulshiram,M,Indian National Congress,Hand,865583,150092,56.03%,SC,451275
+1989,Maharashtra,Sholapur,37,Sadul Dharmanna Mondayya,M,Indian National Congress,Hand,850629,135078,56.10%,GEN,502520
+1989,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian National Congress,Hand,979118,218144,63.43%,SC,467736
+1989,Maharashtra,Ahmednagar,39,Gadakh .Y.K.,M,Indian National Congress,Hand,984397,153745,56.08%,GEN,529972
+1989,Maharashtra,Kopargaon,40,Vikhe E.V.,M,Indian National Congress,Hand,858141,121058,49.73%,GEN,498865
+1989,Maharashtra,Khed,41,Bankhele Kisanrao Baburao,M,Janata Dal,Arrow,934837,15796,44.28%,GEN,547527
+1989,Maharashtra,Pune,42,Gadgil Vitthalaro Narhar,M,Indian National Congress,Hand,1070901,8181,43.61%,GEN,678858
+1989,Maharashtra,Baramati,43,Patil Shankarrao Bajirao,M,Indian National Congress,Hand,1217719,171092,58.41%,GEN,658277
+1989,Maharashtra,Satara,44,Bhosale Prataprao Baburao,M,Indian National Congress,Hand,911901,316991,81.94%,GEN,450908
+1989,Maharashtra,Karad,45,Chavan Premalabai Dajisaheb,F,Indian National Congress,Hand,948262,193165,60.19%,GEN,565885
+1989,Maharashtra,Sangli,46,Patil Prakashbapu Vasantrao,M,Indian National Congress,Hand,892515,208276,69.11%,GEN,523434
+1989,Maharashtra,Ichalkaranji,47,Mane Balasaheb Alais Rajaram Shankarrao,M,Indian National Congress,Hand,938150,73090,42.67%,GEN,646030
+1989,Maharashtra,Kolhapur,48,Gaikwad Udaysingrao Nanasaheb,M,Indian National Congress,Hand,893490,41128,53.00%,GEN,518260
+1991,Maharashtra,Rajapur,1,Sudhir Sawant,M,Indian National Congress,Hand,755126,43046,43.31%,GEN,362816
+1991,Maharashtra,Ratnagiri,2,Govindram Nikam,M,Indian National Congress,Hand,800680,12928,47.22%,GEN,406342
+1991,Maharashtra,Kolaba,3,A.R. Antulay,M,Indian National Congress,Hand,984558,39706,41.04%,GEN,535218
+1991,Maharashtra,Bombay South,4,Deora Murli,M,Indian National Congress,Hand,749380,25756,51.53%,GEN,286364
+1991,Maharashtra,Bombay South Central,5,Mohan Rawale,M,Shivsena,Other,814338,4402,35.64%,GEN,342153
+1991,Maharashtra,Bombay North Central,6,Dighe Sharad Shankar,M,Indian National Congress,Hand,1033716,14212,43.31%,GEN,415777
+1991,Maharashtra,Bombay North East,7,Guradas Kamat,M,Indian National Congress,Hand,1516164,59124,51.37%,GEN,657285
+1991,Maharashtra,Bombay North West,8,Sunil Dutt,M,Indian National Congress,Hand,1247057,56745,50.78%,GEN,526490
+1991,Maharashtra,Bombay North,9,Ram Naik,M,Bharatiya Janata Party,Lotus,1585616,92313,48.06%,GEN,633551
+1991,Maharashtra,Thane,10,Kapse Ramchandra Ganesh,M,Bharatiya Janata Party,Lotus,1744592,28317,47.24%,GEN,641248
+1991,Maharashtra,Dahanu,11,Damu Barku Shingda,M,Indian National Congress,Hand,1088103,32916,40.16%,ST,444303
+1991,Maharashtra,Nashik,12,Pawar Vasant Niwrutti,M,Indian National Congress,Hand,1075967,141366,57.81%,GEN,536639
+1991,Maharashtra,Malegaon,13,Kahandole Zamru Manglu,M,Indian National Congress,Hand,924991,84300,48.07%,ST,403693
+1991,Maharashtra,Dhule,14,Chaure Bapu Hari,M,Indian National Congress,Hand,913875,80859,58.00%,ST,365324
+1991,Maharashtra,Nandurbar,15,Gavit Manikrao Hodalya,M,Indian National Congress,Hand,899431,168890,66.91%,ST,429378
+1991,Maharashtra,Erandol,16,Patil Vijay Naval,M,Indian National Congress,Hand,972819,81993,44.27%,GEN,408624
+1991,Maharashtra,Jalgaon,17,Gunavant Rambhau Saroda,M,Bharatiya Janata Party,Lotus,979398,24265,49.57%,GEN,471260
+1991,Maharashtra,Buldhana,18,Wasnik Mukul Balkrishna,M,Indian National Congress,Hand,919037,37091,46.53%,SC,458866
+1991,Maharashtra,Akola,19,Fundkar Pandurang Pundlik,M,Bharatiya Janata Party,Lotus,949409,45113,39.45%,GEN,511593
+1991,Maharashtra,Washim,20,Anantrao Vitthalrao Deshmukh,M,Indian National Congress,Hand,858644,48989,38.66%,GEN,449308
+1991,Maharashtra,Amravati,21,Pratibha Devisinha Patil (W),F,Indian National Congress,Hand,939913,55481,42.33%,GEN,418805
+1991,Maharashtra,Ramtek,22,Bhonsle Tejsingharao Laxmanrao,M,Indian National Congress,Hand,914252,137954,55.63%,GEN,432179
+1991,Maharashtra,Nagpur,23,Meghe Dattaji Raghobaji,M,Indian National Congress,Hand,1240382,74720,45.97%,GEN,597047
+1991,Maharashtra,Bhandara,24,Praful Manohar Bhai Patel,M,Indian National Congress,Hand,869165,163558,58.29%,GEN,558514
+1991,Maharashtra,Chimur,25,Muttemwar Vilas Baburao,M,Indian National Congress,Hand,924966,48009,40.58%,GEN,587159
+1991,Maharashtra,Chandrapur,26,Potdukhe Shantaram,M,Indian National Congress,Hand,1017275,87697,41.93%,GEN,507916
+1991,Maharashtra,Wardha,27,Ghangare Ramchandra Marotrao,M,Communist Party Of India (Marxist),Ears of Corn and Sickle,930617,23530,40.81%,GEN,447047
+1991,Maharashtra,Yavatmal,28,Uttamrao Deorao Patil,M,Indian National Congress,Hand,896047,70930,43.91%,GEN,427873
+1991,Maharashtra,Hingoli,29,Gundewar Vilasrao Nagnathrao,M,Shivsena,Other,942014,3793,32.41%,GEN,449845
+1991,Maharashtra,Nanded,30,Suryakants Patil (W),F,Indian National Congress,Hand,1082908,132362,51.07%,GEN,491532
+1991,Maharashtra,Parbhani,31,Deshmukh Ashokrao Anandrao,M,Shivsena,Other,959377,20161,32.95%,GEN,434890
+1991,Maharashtra,Jalna,32,Ankushrao Tope,M,Indian National Congress,Hand,1013928,68207,48.50%,GEN,531676
+1991,Maharashtra,Aurangabad,33,Moreshwar Save,M,Shivsena,Other,1205538,82419,41.38%,GEN,569983
+1991,Maharashtra,Beed,34,Kshirsagar Kesharbai Sonajirao Alias Kaku (W),F,Indian National Congress,Hand,1137213,87626,43.55%,GEN,597155
+1991,Maharashtra,Latur,35,Patil Shivraj Vishwanath,M,Indian National Congress,Hand,993685,58718,42.75%,GEN,556430
+1991,Maharashtra,Osmanabad,36,Kamble Arvind Tulshiram,M,Indian National Congress,Hand,884277,83055,52.13%,SC,453899
+1991,Maharashtra,Sholapur,37,Sadul Dharmanna Mondayya,M,Indian National Congress,Hand,896543,80090,53.13%,GEN,494287
+1991,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian National Congress,Hand,998122,234808,66.85%,SC,472188
+1991,Maharashtra,Ahmednagar,39,Gadakh Yeshawantrao,M,Indian National Congress,Hand,1001165,11637,46.41%,GEN,602294
+1991,Maharashtra,Kopargaon,40,Kale Shankarrao Deoram,M,Indian National Congress,Hand,876195,172457,63.40%,GEN,491144
+1991,Maharashtra,Khed,41,Navale Vidura Vithoba,M,Indian National Congress,Hand,956612,190408,60.88%,GEN,453393
+1991,Maharashtra,Pune,42,Anna Joshi,M,Bharatiya Janata Party,Lotus,1184618,16938,44.22%,GEN,566027
+1991,Maharashtra,Baramati,43,Ajit Annatrao Pawar,M,Indian National Congress,Hand,1261608,336263,75.31%,GEN,580623
+1991,Maharashtra,Satara,44,Bhosale Prataprao Baburao,M,Indian National Congress,Hand,931856,159212,66.85%,GEN,390603
+1991,Maharashtra,Karad,45,Chavan Prithviraj Dajishaheb,M,Indian National Congress,Hand,964559,92380,54.51%,GEN,499770
+1991,Maharashtra,Sangli,46,Patil Prakashbapu Vasantrao,M,Indian National Congress,Hand,918893,207680,65.95%,GEN,476006
+1991,Maharashtra,Ichalkaranji,47,Mane Balaso Alias Rajaram Shankarrao,M,Indian National Congress,Hand,971473,257059,70.61%,GEN,510832
+1991,Maharashtra,Kolhapur,48,Gaikwad Udaysingrao Nanasaheb,M,Indian National Congress,Hand,905091,194331,64.31%,GEN,419075
+1996,Maharashtra,Rajapur,1,Suresh Prabhu,M,Shivsena,Other,796189,66136,44.80%,GEN,432059
+1996,Maharashtra,Ratnagiri,2,Anant Gangaram Geete,M,Shivsena,Other,836562,131784,58.54%,GEN,469953
+1996,Maharashtra,Kolaba,3,Antulay Abdul Rahiman A. Gafoor,M,Indian National Congress,Hand,1085702,4007,34.10%,GEN,625231
+1996,Maharashtra,Mumbai South,4,Jayawantiben Mehta,F,Bharatiya Janata Party,Lotus,710750,23208,44.68%,GEN,310734
+1996,Maharashtra,Mumbai South Central,5,Mohan Vishnu Rawale,M,Shivsena,Other,802038,58652,47.40%,GEN,366860
+1996,Maharashtra,Mumbai North Central,6,Narayan Gajanan Athawale,M,Shivsena,Other,1118207,89199,47.92%,GEN,506146
+1996,Maharashtra,Mumbai North East,7,Pramod Mahajan,M,Bharatiya Janata Party,Lotus,1930084,191563,46.87%,GEN,914917
+1996,Maharashtra,Mumbai North West,8,Madhukar Sirpotdar,M,Shivsena,Other,1517813,88469,45.40%,GEN,707215
+1996,Maharashtra,Mumbai North,9,Ram Naik,M,Bharatiya Janata Party,Lotus,2156292,256260,58.49%,GEN,859527
+1996,Maharashtra,Thane,10,Paranjpe Prakash Vishwanath,M,Shivsena,Other,2832514,192637,51.70%,GEN,902772
+1996,Maharashtra,Dahanu,11,Chintaman Wanaga,M,Bharatiya Janata Party,Lotus,1393889,72518,42.02%,ST,538787
+1996,Maharashtra,Nashik,12,Godase Rajaram Parashram,M,Shivsena,Other,1305210,73539,47.41%,GEN,622326
+1996,Maharashtra,Malegaon,13,Raut Kacharu Bhau,M,Bharatiya Janata Party,Lotus,1056717,12881,34.59%,ST,431700
+1996,Maharashtra,Dhule,14,Bagul Sahebrao Sukram,M,Bharatiya Janata Party,Lotus,1077969,29633,48.60%,ST,379759
+1996,Maharashtra,Nandurbar,15,Gavit Manikrao Hodlya,M,Indian National Congress,Hand,1041333,33309,46.92%,ST,504253
+1996,Maharashtra,Erandol,16,Annasaheb Patil M.K.,M,Bharatiya Janata Party,Lotus,1035322,46527,48.38%,GEN,511728
+1996,Maharashtra,Jalgaon,17,Gunwantrao Rambhau Sarode,M,Bharatiya Janata Party,Lotus,1056966,84087,52.99%,GEN,507000
+1996,Maharashtra,Buldhana,18,Adsul Anandrao Vithoba,M,Shivsena,Other,1023215,69431,47.50%,SC,593540
+1996,Maharashtra,Akola,19,Phundkar Pandurang Pundlik,M,Bharatiya Janata Party,Lotus,1075426,9053,34.61%,GEN,638841
+1996,Maharashtra,Washim,20,Gawali Pundlikrao Ramji,M,Shivsena,Other,970735,16689,39.30%,GEN,580794
+1996,Maharashtra,Amravati,21,Gudhe Anantrao Mahadeoappa,M,Shivsena,Other,1099720,58631,39.86%,GEN,541132
+1996,Maharashtra,Ramtek,22,Meghe Dattatray Raghobaji,M,Indian National Congress,Hand,1032993,25722,37.79%,GEN,548329
+1996,Maharashtra,Nagpur,23,Banwarilal Purohit,M,Bharatiya Janata Party,Lotus,1514336,121502,45.45%,GEN,777945
+1996,Maharashtra,Bhandara,24,Patel Praful Manoharbhai,M,Indian National Congress,Hand,907907,6963,42.84%,GEN,606076
+1996,Maharashtra,Chimur,25,Diwate Namdeo Harbaji,M,Bharatiya Janata Party,Lotus,989212,112335,43.78%,GEN,705828
+1996,Maharashtra,Chandrapur,26,Ahir Hansaraj Gangaram,M,Bharatiya Janata Party,Lotus,1180374,96131,34.08%,GEN,744373
+1996,Maharashtra,Wardha,27,Mude Vijay Annaji,M,Bharatiya Janata Party,Lotus,1041353,21975,35.30%,GEN,540569
+1996,Maharashtra,Yavatmal,28,Rajabhau Ganeshrao Thakare,M,Bharatiya Janata Party,Lotus,1005892,38562,46.24%,GEN,578595
+1996,Maharashtra,Hingoli,29,Mane Shivaji Gyanbarao,M,Shivsena,Other,1015490,79067,35.36%,GEN,576348
+1996,Maharashtra,Nanded,30,Kunturkar Gangadharrao Mohanrao Deshmukh,M,Indian National Congress,Hand,1154935,11936,29.41%,GEN,629994
+1996,Maharashtra,Parbhani,31,Jadhav Suresh Ramrao,M,Shivsena,Other,1017568,114875,47.91%,GEN,481707
+1996,Maharashtra,Jalna,32,Pawar Uttamsing Rajdharsing,M,Bharatiya Janata Party,Lotus,1072289,118630,53.01%,GEN,603551
+1996,Maharashtra,Aurangabad,33,Jaiswal Pradeep,M,Shivsena,Other,1318963,114579,44.44%,GEN,677634
+1996,Maharashtra,Beed,34,Rajani Ashokrao Patil,F,Bharatiya Janata Party,Lotus,1146418,57460,43.41%,GEN,644962
+1996,Maharashtra,Latur,35,Shivraj Vishwanath Patil,M,Indian National Congress,Hand,1045017,79372,41.77%,GEN,669844
+1996,Maharashtra,Osmanabad,36,Kamble Shivaji Vithalrao,M,Shivsena,Other,915924,15919,42.06%,SC,472014
+1996,Maharashtra,Sholapur,37,Valyal Lingraj Balairayya,M,Bharatiya Janata Party,Lotus,986021,17087,33.79%,GEN,544713
+1996,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian National Congress,Hand,1058285,75088,45.45%,SC,506490
+1996,Maharashtra,Ahmednagar,39,Maruti Deoram Alias Dada Patil Shelke,M,Indian National Congress,Hand,1108983,49409,38.40%,GEN,554015
+1996,Maharashtra,Kopargaon,40,Badade Bhimrao Vishnuji,M,Bharatiya Janata Party,Lotus,924596,20251,47.81%,GEN,509427
+1996,Maharashtra,Khed,41,Sherkar Nivruttisheth Namdeo,M,Indian National Congress,Hand,1029058,18569,44.40%,GEN,562935
+1996,Maharashtra,Pune,42,Suresh Kalmadi,M,Indian National Congress,Hand,1364999,86995,50.66%,GEN,771356
+1996,Maharashtra,Baramati,43,Pawar Sharadchandra Govindrao,M,Indian National Congress,Hand,1399042,160501,57.23%,GEN,747148
+1996,Maharashtra,Satara,44,Naik Nimbalkar Hindurao Nilkanthrao,M,Shivsena,Other,949934,11809,35.66%,GEN,534227
+1996,Maharashtra,Karad,45,Chavan Prithviraj Dajisaheb,M,Indian National Congress,Hand,1015322,149596,49.96%,GEN,616115
+1996,Maharashtra,Sangli,46,Patil Madan Vishwanath,M,Indian National Congress,Hand,1004670,174713,51.50%,GEN,583137
+1996,Maharashtra,Ichalkaranji,47,Awade Kallappa Baburao,M,Indian National Congress,Hand,1093847,28510,34.44%,GEN,689723
+1996,Maharashtra,Kolhapur,48,Gaikwad Udaysingrao Nanasaheb,M,Indian National Congress,Hand,1038333,68325,43.93%,GEN,538907
+1998,Maharashtra,Rajapur,1,Suresh Prabhu,M,Shivsena,Other,802680,65042,50.37%,GEN,432330
+1998,Maharashtra,Ratnagiri,2,Anant Gangaram Geete,M,Shivsena,Other,856651,31234,49.38%,GEN,483832
+1998,Maharashtra,Kolaba,3,Ramsheth Thakur,M,Peasants And Workers Party Of India,Cart,1120507,9126,35.16%,GEN,706318
+1998,Maharashtra,Mumbai South,4,Deora Murli,M,Indian National Congress,Hand,709425,21065,52.59%,GEN,339598
+1998,Maharashtra,Mumbai South Central,5,Mohan Vishnu Rawale,M,Shivsena,Other,801740,153,43.14%,GEN,397274
+1998,Maharashtra,Mumbai North Central,6,Ramdas Athawale,M,Republican Party Of India,Elephant,1124726,25232,50.18%,GEN,562740
+1998,Maharashtra,Mumbai North East,7,Gurudas Kamat,M,Indian National Congress,Hand,1942261,47452,51.07%,GEN,1029784
+1998,Maharashtra,Mumbai North West,8,Madhukar Sirpotdar,M,Shivsena,Other,1524258,19235,47.47%,GEN,779950
+1998,Maharashtra,Mumbai North,9,Ram Naik,M,Bharatiya Janata Party,Lotus,2179254,75017,52.10%,GEN,1019907
+1998,Maharashtra,Thane,10,Paranjpe Prakash Vishwanath,M,Shivsena,Other,2870177,249579,59.21%,GEN,934372
+1998,Maharashtra,Dahanu,11,Nam Shankar Sakharam,M,Indian National Congress,Hand,1415918,34558,43.51%,ST,564345
+1998,Maharashtra,Nashik,12,Patil Madhav Balwant,M,Indian National Congress,Hand,1311540,102392,57.19%,GEN,666781
+1998,Maharashtra,Malegaon,13,Kahandole Zamaru Mangalu,M,Indian National Congress,Hand,1072090,61196,42.88%,ST,503392
+1998,Maharashtra,Dhule,14,D.S.Ahire,M,Indian National Congress,Hand,1086938,57686,55.79%,ST,491228
+1998,Maharashtra,Nandurbar,15,Gavit Manikrao Hodlya,M,Indian National Congress,Hand,1072592,65711,53.65%,ST,566838
+1998,Maharashtra,Erandol,16,Annasaheb M.K.Patil,M,Bharatiya Janata Party,Lotus,1059006,24836,51.87%,GEN,551691
+1998,Maharashtra,Jalgaon,17,Dr.Ulhas Vasudeo Patil,M,Indian National Congress,Hand,1087623,56814,54.40%,GEN,624999
+1998,Maharashtra,Buldhana,18,Wasnik Mukul Balkrushna,M,Indian National Congress,Hand,1033258,53557,51.82%,SC,671692
+1998,Maharashtra,Akola,19,Ambedkar Prakash Yashawant,M,Republican Party Of India,Elephant,1120511,32782,50.64%,GEN,723612
+1998,Maharashtra,Washim,20,Naik Sudhakarrao Rajusing,M,Indian National Congress,Hand,1008076,108590,57.23%,GEN,628572
+1998,Maharashtra,Amravati,21,Ramkrushna Suryabhan Gawai,M,Republican Party Of India,Elephant,1122524,13859,49.76%,GEN,612421
+1998,Maharashtra,Ramtek,22,Rani Chitralekha T. Bhosale,F,Indian National Congress,Hand,1051213,67038,52.02%,GEN,626498
+1998,Maharashtra,Nagpur,23,Vilas Muttemwar,M,Indian National Congress,Hand,1523437,163282,57.41%,GEN,848161
+1998,Maharashtra,Bhandara,24,Patel Praful Manoharbhai,M,Indian National Congress,Hand,928827,19306,49.13%,GEN,660606
+1998,Maharashtra,Chimur,25,Prof. Jogendra Kawade,M,Republican Party Of India,Elephant,1011322,2122,47.46%,GEN,737437
+1998,Maharashtra,Chandrapur,26,Puglia Nareshkumar Chunnalal,M,Indian National Congress,Hand,1210757,150355,55.93%,GEN,804528
+1998,Maharashtra,Wardha,27,Datta Meghe,M,Indian National Congress,Hand,1062924,83083,48.47%,GEN,678606
+1998,Maharashtra,Yavatmal,28,Uttamrao Deorao Patil,M,Indian National Congress,Hand,1032285,54673,47.71%,GEN,610806
+1998,Maharashtra,Hingoli,29,Suryakanta Patil,F,Indian National Congress,Hand,1036294,77666,52.53%,GEN,657596
+1998,Maharashtra,Nanded,30,Patil Bhaskarrao Bapurao,M,Indian National Congress,Hand,1179482,47287,47.81%,GEN,706477
+1998,Maharashtra,Parbhani,31,Warpudkar Sureshrao Ambadasrao,M,Indian National Congress,Hand,1044093,45493,52.69%,GEN,608100
+1998,Maharashtra,Jalna,32,Pawar Uttamsinh Rajdharsinh,M,Bharatiya Janata Party,Lotus,1094048,1808,46.83%,GEN,619898
+1998,Maharashtra,Aurangabad,33,Ramkrishna Baba Patil,M,Indian National Congress,Hand,1341648,30126,50.96%,GEN,800917
+1998,Maharashtra,Beed,34,Jaisingrao Gaikwad Patil,M,Bharatiya Janata Party,Lotus,1170371,6103,46.45%,GEN,646564
+1998,Maharashtra,Latur,35,Patil Shivraj Vishwanath,M,Indian National Congress,Hand,1060340,3327,45.53%,GEN,707744
+1998,Maharashtra,Osmanabad,36,Arvind Tulshiram Kamble,M,Indian National Congress,Hand,929013,47018,52.81%,SC,531286
+1998,Maharashtra,Sholapur,37,Shinde Sushilkumar Sambhajirao,M,Indian National Congress,Hand,1007312,104372,55.44%,GEN,606717
+1998,Maharashtra,Pandharpur,38,Thorat Sandipan Bhagwan,M,Indian National Congress,Hand,1093414,97432,54.84%,SC,571979
+1998,Maharashtra,Ahmednagar,39,E.V. Alias Balasaheb Vikhe Patil,M,Shivsena,Other,1125233,14245,49.33%,GEN,654846
+1998,Maharashtra,Kopargaon,40,Tanpure Prasad Baburao,M,Indian National Congress,Hand,935133,79240,56.29%,GEN,596427
+1998,Maharashtra,Khed,41,Mohol Ashok Namdeorao,M,Indian National Congress,Hand,1059209,101430,56.72%,GEN,616111
+1998,Maharashtra,Pune,42,Tupe Vitthal Baburao,M,Indian National Congress,Hand,1392818,93218,52.79%,GEN,823793
+1998,Maharashtra,Baramati,43,Pawar Sharadchandra Govindrao,M,Indian National Congress,Hand,1439302,268184,65.81%,GEN,803858
+1998,Maharashtra,Satara,44,Abhaysinh Shahumaharaj Bhosale,M,Indian National Congress,Hand,965772,181476,65.20%,GEN,597000
+1998,Maharashtra,Karad,45,Chavan Prithviraj Dajisaheb,M,Indian National Congress,Hand,1026239,172907,62.01%,GEN,644693
+1998,Maharashtra,Sangli,46,Patil Madan Vishwanath,M,Indian National Congress,Hand,1022342,73239,55.59%,GEN,609610
+1998,Maharashtra,Ichalkaranji,47,Awade Kallappa Baburao,M,Indian National Congress,Hand,1099466,12194,48.02%,GEN,718067
+1998,Maharashtra,Kolhapur,48,Mandlik Sadashiv Rao Dadoba,M,Indian National Congress,Hand,1041201,61598,51.66%,GEN,712289
+1999,Maharashtra,Rajapur,1,Suresh Prabhakar Prabhu,M,Shivsena,Other,790537,112850,51.07%,GEN,433752
+1999,Maharashtra,Ratnagiri,2,Anant Gangaram Geete,M,Shivsena,Other,872359,115343,54.99%,GEN,534353
+1999,Maharashtra,Kolaba,3,Ramsheth Thakur,M,Peasants And Workers Party Of India,Cart,1156456,43097,41.55%,GEN,660244
+1999,Maharashtra,Mumbai South,4,Jayawanti Mehta,F,Bharatiya Janata Party,Lotus,719281,10243,47.84%,GEN,302999
+1999,Maharashtra,Mumbai South Central,5,Mohan Vishnu Rawale,M,Shivsena,Other,812576,79036,47.97%,GEN,367605
+1999,Maharashtra,Mumbai North Central,6,Manohar Gajanan Joshi,M,Shivsena,Other,1148316,168995,55.83%,GEN,528291
+1999,Maharashtra,Mumbai North East,7,Kirit Somaiya,M,Bharatiya Janata Party,Lotus,1990340,7276,43.08%,GEN,929417
+1999,Maharashtra,Mumbai North West,8,Sunil Dutt,M,Indian National Congress,Hand,1553015,85539,52.35%,GEN,700414
+1999,Maharashtra,Mumbai North,9,Ram Naik,M,Bharatiya Janata Party,Lotus,2222240,154136,56.39%,GEN,918529
+1999,Maharashtra,Thane,10,Prakash Paranjpe,M,Shivsena,Other,2772750,99683,43.22%,GEN,905683
+1999,Maharashtra,Dahanu,11,Adv Chintaman Wanaga,M,Bharatiya Janata Party,Lotus,1434678,62270,36.50%,ST,659988
+1999,Maharashtra,Nashik,12,Dhikale Uttamrao Nathuji,M,Shivsena,Other,1344755,36812,41.59%,GEN,728772
+1999,Maharashtra,Malegaon,13,Mahale Haribahu Shankar,M,Janata Dal (Secular),Arrow,1083181,4392,29.32%,ST,653567
+1999,Maharashtra,Dhule,14,Ramdas Rupla Gavit,M,Bharatiya Janata Party,Lotus,1102845,12985,36.14%,ST,586271
+1999,Maharashtra,Nandurbar,15,Gavit Manikrao Hodlya,M,Indian National Congress,Hand,1079466,130771,47.44%,ST,671039
+1999,Maharashtra,Erandol,16,Annasaheb M K Patil,M,Bharatiya Janata Party,Lotus,1082958,104456,47.36%,GEN,628895
+1999,Maharashtra,Jalgaon,17,Y G Mahajan Sir,M,Bharatiya Janata Party,Lotus,1101166,89795,47.62%,GEN,701485
+1999,Maharashtra,Buldhana,18,Adsul Anandrao Vithoba,M,Shivsena,Other,1039128,45007,41.82%,SC,705137
+1999,Maharashtra,Akola,19,Ambedkar Prakash Yashwant,M,Bharipa Bahujan Mahasangha,Other,1145140,8716,40.53%,GEN,671649
+1999,Maharashtra,Washim,20,Bhawana Pundlikrao Gawali,F,Shivsena,Other,1004211,39595,38.29%,GEN,639415
+1999,Maharashtra,Amravati,21,Gudhe Anant Mahadeoappa,M,Shivsena,Other,1124886,73652,48.20%,GEN,663733
+1999,Maharashtra,Ramtek,22,Subodh Mohite,M,Shivsena,Other,1050833,11689,36.97%,GEN,655822
+1999,Maharashtra,Nagpur,23,Vilas Muttemwar,M,Indian National Congress,Hand,1551380,72695,52.38%,GEN,810365
+1999,Maharashtra,Bhandara,24,Chunnilalbhau Thakur,M,Bharatiya Janata Party,Lotus,938648,3819,45.81%,GEN,635954
+1999,Maharashtra,Chimur,25,Diwathe Namdeo Harbaji,M,Bharatiya Janata Party,Lotus,1013322,70040,40.54%,GEN,741450
+1999,Maharashtra,Chandrapur,26,Puglia Nareshkumar Chunnalal,M,Indian National Congress,Hand,1224338,2837,41.66%,GEN,788538
+1999,Maharashtra,Wardha,27,Prabha Rao,F,Indian National Congress,Hand,1079969,7062,38.31%,GEN,651394
+1999,Maharashtra,Yavatmal,28,Uttamrao Deorao Patil,M,Indian National Congress,Hand,1007605,15226,42.01%,GEN,615388
+1999,Maharashtra,Hingoli,29,Mane Shivaji Gyanbarao,M,Shivsena,Other,1033944,80655,43.14%,GEN,689137
+1999,Maharashtra,Nanded,30,Khatgaonkar Bhaskarrao Bapurao,M,Indian National Congress,Hand,1191427,32575,44.69%,GEN,732365
+1999,Maharashtra,Parbhani,31,Jadhav Suresh Ramrao,M,Shivsena,Other,1055193,43665,38.39%,GEN,661632
+1999,Maharashtra,Jalna,32,Danve Raosaheb Dadarao Patil,M,Bharatiya Janata Party,Lotus,1106131,123909,45.79%,GEN,726464
+1999,Maharashtra,Aurangabad,33,Chandrakant Khaire,M,Shivsena,Other,1372209,55889,44.85%,GEN,854279
+1999,Maharashtra,Beed,34,Jaysingrao Gaikwad Patil,M,Bharatiya Janata Party,Lotus,1175871,51190,41.20%,GEN,808082
+1999,Maharashtra,Latur,35,Patil Shivraj Vishwanath,M,Indian National Congress,Hand,1097040,40290,41.72%,GEN,753109
+1999,Maharashtra,Osmanabad,36,Kamble Shivaji Vithalrao,M,Shivsena,Other,936324,59073,39.82%,SC,633187
+1999,Maharashtra,Sholapur,37,Shinde Sushilkumar Sambhajirao,M,Indian National Congress,Hand,1026006,76995,47.49%,GEN,603446
+1999,Maharashtra,Pandharpur,38,Athawale Ramdas Bandu,M,Independent,Free Symbol,1106361,259505,52.91%,SC,780810
+1999,Maharashtra,Ahmednagar,39,Dilipkumar Mansukhlal Gandhi,M,Bharatiya Janata Party,Lotus,1147112,28457,38.05%,GEN,731858
+1999,Maharashtra,Kopargaon,40,E V Alias Balasaheb Vikhe Patil,M,Shivsena,Other,952408,47415,38.82%,GEN,652938
+1999,Maharashtra,Khed,41,Ashok Namdeorao Mohol,M,Nationalist Congress Party,Bow and Arrow,1070409,57018,43.01%,GEN,661353
+1999,Maharashtra,Pune,42,Pradeep Rawat,M,Bharatiya Janata Party,Lotus,1435101,91285,41.62%,GEN,732654
+1999,Maharashtra,Baramati,43,Pawar Sharadchandra Govindrao,M,Nationalist Congress Party,Bow and Arrow,1462248,298903,57.79%,GEN,884108
+1999,Maharashtra,Satara,44,Laxmanrao Pandurang Jadhav Patil,M,Nationalist Congress Party,Bow and Arrow,984469,124771,46.82%,GEN,669261
+1999,Maharashtra,Karad,45,Shriniwas Dadasaheb Patil (Marulkar),M,Nationalist Congress Party,Bow and Arrow,1034700,122961,47.76%,GEN,733926
+1999,Maharashtra,Sangli,46,Prakash (Bapu) Vasantrao Patil,M,Indian National Congress,Hand,1031607,160560,53.96%,GEN,706357
+1999,Maharashtra,Ichalkaranji,47,Mane Nivedita Sambhajirao,F,Nationalist Congress Party,Bow and Arrow,1116659,12812,43.37%,GEN,778613
+1999,Maharashtra,Kolhapur,48,Mandlik Sadashivrao Dadoba,M,Nationalist Congress Party,Bow and Arrow,1071598,108910,46.33%,GEN,747874
+2004,Maharashtra,Rajapur,1,Suresh Prabhakar Prabhu,M,SHS,Bow and Arrow,835714,80899,54.94%,GEN,480535
+2004,Maharashtra,Ratnagiri,2,Anant Geete,M,SHS,Bow and Arrow,914770,148968,59.66%,GEN,560976
+2004,Maharashtra,Kolaba,3,A. R. Antulay,M,INC,Hand,1250272,31870,39.35%,GEN,793445
+2004,Maharashtra,Mumbai South,4,Milind Murli Deora,M,INC,Hand,620431,10246,50.28%,GEN,274358
+2004,Maharashtra,Mumbai South Central,5,Mohan Rawale,M,SHS,Bow and Arrow,704452,22188,36.94%,GEN,347972
+2004,Maharashtra,Mumbai North Central,6,Eknath M. Gaikwad,M,INC,Hand,1117487,13329,49.80%,GEN,514593
+2004,Maharashtra,Mumbai North East,7,Kamat Gurudas,M,INC,Hand,1974560,99400,53.30%,GEN,925659
+2004,Maharashtra,Mumbai North West,8,Sunil Dutt,M,INC,Hand,1515745,47358,51.59%,GEN,747687
+2004,Maharashtra,Mumbai North,9,Govinda,M,INC,Hand,2377866,48271,50.01%,GEN,1119342
+2004,Maharashtra,Thane,10,Paranjape Prakash Vishvanath,M,SHS,Bow and Arrow,3240342,22258,48.08%,GEN,1313252
+2004,Maharashtra,Dahanu,11,Shingada Damodar Barku,M,INC,Hand,1605119,63363,41.85%,ST,683353
+2004,Maharashtra,Nashik,12,Pingale Devidas Anandrao,M,NCP,Clock,1522672,15058,46.85%,GEN,656525
+2004,Maharashtra,Malegaon,13,Harischandra Devram Chavan,M,BJP,Lotus,1222363,4528,36.94%,ST,590772
+2004,Maharashtra,Dhule,14,Chaure Bapu Hari,M,INC,Hand,1226114,7765,46.25%,ST,455571
+2004,Maharashtra,Nandurbar,15,Gavit Manikrao Hodlya,M,INC,Hand,1218524,107621,54.99%,ST,639907
+2004,Maharashtra,Erandol,16,Annasaheb M. K. Patil,M,BJP,Lotus,1214861,8141,47.48%,GEN,609800
+2004,Maharashtra,Jalgaon,17,Y. G. Mahajan (Sir),M,BJP,Lotus,1239241,20646,48.44%,GEN,616969
+2004,Maharashtra,Buldhana,18,Adsul Anandrao Vithoba,M,SHS,Bow and Arrow,1196627,59907,48.60%,SC,761264
+2004,Maharashtra,Akola,19,Dhotre Sanjay Shamrao,M,BJP,Lotus,1271055,106371,42.61%,GEN,735372
+2004,Maharashtra,Washim,20,Gawali (Patil) Ku. Bhavana Pundlikrao,F,SHS,Bow and Arrow,1151886,60898,49.77%,GEN,720723
+2004,Maharashtra,Amravati,21,Anant Gudhe,M,SHS,Bow and Arrow,1204881,14234,30.04%,GEN,676421
+2004,Maharashtra,Ramtek,22,Mohite Subodh Baburao,M,SHS,Bow and Arrow,1148759,14102,42.74%,GEN,647483
+2004,Maharashtra,Nagpur,23,Vilas Muttemwar,M,INC,Hand,1630894,99483,47.17%,GEN,792451
+2004,Maharashtra,Bhandara,24,Patle Shishupal Natthu,M,BJP,Lotus,1006061,3009,40.76%,GEN,680476
+2004,Maharashtra,Chimur,25,Shivankar Mahadeorao Sukaji,M,BJP,Lotus,1113832,98774,43.42%,GEN,775523
+2004,Maharashtra,Chandrapur,26,Ahir Hansraj Gangaram,M,BJP,Lotus,1329746,59823,43.51%,GEN,841144
+2004,Maharashtra,Wardha,27,Wagmare Suresh Ganapat,M,BJP,Lotus,1144924,3188,42.97%,GEN,626105
+2004,Maharashtra,Yavatmal,28,Rathod Harising Nasaru,M,BJP,Lotus,1133605,56804,44.96%,GEN,663978
+2004,Maharashtra,Hingoli,29,Suryakanta Patil,F,NCP,Clock,1189303,12545,45.03%,GEN,728325
+2004,Maharashtra,Nanded,30,D. B. Patil,M,BJP,Lotus,1445611,24335,45.15%,GEN,800145
+2004,Maharashtra,Parbhani,31,Tukaram Ganpatrao Renge Patil,M,SHS,Bow and Arrow,1155668,56171,50.20%,GEN,675985
+2004,Maharashtra,Jalna,32,Danve Raosaheb Dadarao Patil,M,BJP,Lotus,1242929,61332,48.87%,GEN,756365
+2004,Maharashtra,Aurangabad,33,Chandrakant Khaire,M,SHS,Bow and Arrow,1636117,121923,52.37%,GEN,912571
+2004,Maharashtra,Beed,34,Jaisingrao Gaikwad Patil,M,NCP,Clock,1319891,47412,48.07%,GEN,884234
+2004,Maharashtra,Latur,35,Patil Rupatai Diliprao Nilangekar,F,BJP,Lotus,1293202,30891,49.19%,GEN,822355
+2004,Maharashtra,Osmanabad,36,Narhire Kalpana Ramesh,F,SHS,Bow and Arrow,1072645,1649,46.15%,SC,637933
+2004,Maharashtra,Sholapur,37,Deshmukh Subhash Sureshchandra,M,BJP,Lotus,1187231,5798,48.14%,GEN,656801
+2004,Maharashtra,Pandharpur,38,Athawale Ramdas Bandu,M,RPI(A),Elephant,1294407,99693,50.38%,SC,689127
+2004,Maharashtra,Ahmednagar,39,Gadakh Tukaram Gangadhar,M,NCP,Clock,1295593,75077,52.77%,GEN,687722
+2004,Maharashtra,Kopargaon,40,E. V. Alias Balasaheb Vikhe Patil,M,INC,Hand,1077519,87331,53.34%,GEN,668700
+2004,Maharashtra,Khed,41,Adhalarao Patil Shivajirao,M,SHS,Bow and Arrow,1319319,20810,49.25%,GEN,732045
+2004,Maharashtra,Pune,42,Kalmadi Suresh,M,INC,Hand,1608614,73176,48.60%,GEN,769018
+2004,Maharashtra,Baramati,43,Pawar Sharadchandra Govindrao,M,NCP,Clock,1846635,422975,71.03%,GEN,893331
+2004,Maharashtra,Satara,44,Laxmanrao Pandurang Jadhav (Patil),M,NCP,Clock,1149290,3957,41.71%,GEN,675012
+2004,Maharashtra,Karad,45,Patil Shriniwas Dadasaheb,M,NCP,Clock,1181744,196730,61.12%,GEN,714523
+2004,Maharashtra,Sangli,46,Patil Prakashbapu Vasantdada,M,INC,Hand,1186416,81623,44.02%,GEN,692999
+2004,Maharashtra,Ichalkaranji,47,Mane Nivedita Sambhajirao,F,NCP,Clock,1215059,101049,53.38%,GEN,791087
+2004,Maharashtra,Kolhapur,48,Mandlik Sadashivrao Dadoba,M,NCP,Clock,1162212,14753,49.42%,GEN,813344
+2009,Maharashtra,Nandurbar,1,Gavit Manikrao Hodlya,M,Indian National Congress,Hand,1455543,40843,36.01%,,766240
+2009,Maharashtra,Dhule,2,Sonawane Pratap Narayanrao,M,Bharatiya Janata Party,Lotus,1575225,19419,39.30%,,669906
+2009,Maharashtra,Jalgaon,3,A.T. Nana Patil,M,Bharatiya Janata Party,Lotus,1549382,96020,52.34%,,656567
+2009,Maharashtra,Raver,4,Haribhau Madhav Jawale,M,Bharatiya Janata Party,Lotus,1418690,28218,45.67%,,720006
+2009,Maharashtra,Buldhana,5,Jadhav Prataprao Ganpatrao,M,Shivsena,Other,1382981,28078,41.46%,,853133
+2009,Maharashtra,Akola,6,Dhotre Sanjay Shamrao,M,Bharatiya Janata Party,Lotus,1480606,64848,38.91%,,738955
+2009,Maharashtra,Amravati,7,Adsul Anandrao Vithoba,M,Shivsena,Other,1423855,61716,42.91%,,732492
+2009,Maharashtra,Wardha,8,Datta Meghe,M,Indian National Congress,Hand,1408781,95918,45.88%,,769132
+2009,Maharashtra,Ramtek,9,Wasnik Mukul Balkrishna,M,Indian National Congress,Hand,1502900,16701,40.75%,,764712
+2009,Maharashtra,Nagpur,10,Muttemwar Vilasrao Baburaoji,M,Indian National Congress,Hand,1738920,24399,41.72%,,755369
+2009,Maharashtra,Bhandara - Gondiya,11,Patel Praful Manoharbhai,M,Nationalist Congress Party,Bow and Arrow,1450477,251915,47.52%,,1030750
+2009,Maharashtra,Gadchiroli-Chimur,12,Kowase Marotrao Sainuji,M,Indian National Congress,Hand,1285387,28580,38.43%,,837247
+2009,Maharashtra,Chandrapur,13,Ahir Hansaraj Gangaram,M,Bharatiya Janata Party,Lotus,1536352,32495,33.55%,,898515
+2009,Maharashtra,Yavatmal-Washim,14,Bhavana Gawali (Patil),F,Shivsena,Other,1554042,56951,45.76%,,840064
+2009,Maharashtra,Hingoli,15,Subhash Bapurao Wankhede,M,Shivsena,Other,1369700,73634,41.61%,,817467
+2009,Maharashtra,Nanded,16,Khatgaonkar Patil Bhaskarrao Bapurao,M,Indian National Congress,Hand,1439013,74614,44.72%,,774590
+2009,Maharashtra,Parbhani,17,Adv. Dudhgaonkar Ganeshrao Nagorao,M,Shivsena,Other,1610088,65418,44.26%,,870726
+2009,Maharashtra,Jalna,18,Danve Raosaheb Dadarao,M,Bharatiya Janata Party,Lotus,1426255,8482,44.00%,,797127
+2009,Maharashtra,Aurangabad,19,Chandrakant Khaire,M,Shivsena,Other,1417964,33014,35.00%,,731147
+2009,Maharashtra,Dindori,20,Chavan Harishchandra Deoram,M,Bharatiya Janata Party,Lotus,1432938,37347,41.26%,,681623
+2009,Maharashtra,Nashik,21,Sameer Bhujbal,M,Nationalist Congress Party,Bow and Arrow,1448414,22032,36.34%,,656892
+2009,Maharashtra,Palghar,22,Jadhav Baliram Sukur,M,Bahujan Vikas Aaghadi,Other,1504070,12360,30.47%,,732587
+2009,Maharashtra,Bhiwandi,23,Taware Suresh Kashinath,M,Indian National Congress,Hand,1487203,41364,31.29%,,584263
+2009,Maharashtra,Kalyan,24,Anand Prakash Paranjape,M,Shivsena,Other,1587724,24202,39.00%,,544828
+2009,Maharashtra,Thane,25,Dr.Sanjeev Ganesh Naik,M,Nationalist Congress Party,Bow and Arrow,1796681,49020,40.14%,,749873
+2009,Maharashtra,Mumbai North,26,Sanjay Brijkishorlal Nirupam,M,Indian National Congress,Hand,1608924,5779,37.25%,,685022
+2009,Maharashtra,Mumbai North West,27,Ad.Kamat Gurudas Vasant,M,Indian National Congress,Hand,1604992,38387,35.91%,,707134
+2009,Maharashtra,Mumbai North East,28,Sanjay Dina Patil,M,Nationalist Congress Party,Bow and Arrow,1572890,2933,31.97%,,667904
+2009,Maharashtra,Mumbai North Central,29,Dutt Priya Sunil,F,Indian National Congress,Hand,1682553,174555,48.05%,,664597
+2009,Maharashtra,Mumbai South Central,30,Eknath M. Gaikwad,M,Indian National Congress,Hand,1515099,75706,43.00%,,598845
+2009,Maharashtra,Mumbai South,31,Deora Milind Murli,M,Indian National Congress,Hand,1590400,112682,42.46%,,641571
+2009,Maharashtra,Raigad,32,Anant Geete,M,Shivsena,Other,1359830,146521,53.89%,,767366
+2009,Maharashtra,Maval,33,Babar Gajanan Dharmshi,M,Shivsena,Other,1604886,80619,50.84%,,717616
+2009,Maharashtra,Pune,34,Kalmadi Suresh,M,Indian National Congress,Hand,1806953,25701,38.11%,,734641
+2009,Maharashtra,Baramati,35,Supriya Sule,F,Nationalist Congress Party,Bow and Arrow,1593460,336831,66.46%,,734048
+2009,Maharashtra,Shirur,36,Adhalrao Shivaji Dattatray,M,Shivsena,Other,1630466,178611,57.54%,,838728
+2009,Maharashtra,Ahmadnagar,37,Gandhi Dilipkumar Mansukhlal,M,Bharatiya Janata Party,Lotus,1517951,46731,39.65%,,786980
+2009,Maharashtra,Shirdi,38,Wakchaure Bhausaheb Rajaram,M,Shivsena,Other,1317890,132751,54.21%,,663881
+2009,Maharashtra,Beed,39,Munde Gopinathrao Pandurang,M,Bharatiya Janata Party,Lotus,1637501,140952,51.58%,,1073983
+2009,Maharashtra,Osmanabad,40,Patil Padamsinha Bajirao,M,Nationalist Congress Party,Bow and Arrow,1608852,6787,44.22%,,924547
+2009,Maharashtra,Latur,41,Awale Jaywant Gangaram,M,Indian National Congress,Hand,1509927,7975,44.96%,,829393
+2009,Maharashtra,Solapur,42,Shinde Sushilkumar Sambhajirao,M,Indian National Congress,Hand,1594138,99632,52.15%,,743222
+2009,Maharashtra,Madha,43,Pawar Sharadchandra Govindrao,M,Nationalist Congress Party,Bow and Arrow,1558442,314459,57.71%,,919371
+2009,Maharashtra,Sangli,44,Pratik Prakashbapu Patil,M,Indian National Congress,Hand,1490571,39783,48.74%,,776830
+2009,Maharashtra,Satara,45,Bhonsle Shrimant Chh. Udyanraje Pratapsinhmaharaj,M,Nationalist Congress Party,Bow and Arrow,1546146,297515,65.22%,,816646
+2009,Maharashtra,Ratnagiri - Sindhudurg,46,Dr.Nilesh Narayan Rane,M,Indian National Congress,Hand,1252255,46750,49.24%,,718721
+2009,Maharashtra,Kolhapur,47,Sadashivrao Dadoba Mandlik,M,Independent,Free Symbol,1583030,44800,41.65%,,1027802
+2009,Maharashtra,Hatkanangle,48,Shetti Raju Alias Devappa Anna,M,Swabhimani Paksha,Other,1458560,95060,49.17%,,978202
+2014,Maharashtra,Nandurbar,1,Dr.Gavit Heena Vijaykumar,F,BJP,Lotus,1672943,106905,51.89%,ST,1116676
+2014,Maharashtra,Dhule,2,Dr. Bhamre Subhash Ramrao,M,BJP,Lotus,1675367,130723,53.86%,GEN,983083
+2014,Maharashtra,Jalgaon,3,A.T. Nana Patil,M,BJP,Lotus,1707969,383525,65.41%,GEN,990332
+2014,Maharashtra,Raver,4,Khadase Raksha Nikhil,F,BJP,Lotus,1593389,318068,59.99%,GEN,1009213
+2014,Maharashtra,Buldhana,5,Jadhav Prataprao Ganpatrao,M,SHS,Bow and Arrow,1595435,159579,52.03%,GEN,978626
+2014,Maharashtra,Akola,6,Dhotre Sanjay Shamrao,M,BJP,Lotus,1672643,203116,46.65%,GEN,978491
+2014,Maharashtra,Amravati,7,Adsul Anandrao Vithoba,M,SHS,Bow and Arrow,1612739,137932,46.53%,SC,1004061
+2014,Maharashtra,Wardha,8,Ramdas Chandrabhanji Tadas,M,BJP,Lotus,1564552,215783,53.04%,GEN,1013445
+2014,Maharashtra,Ramtek,9,Krupal Balaji Tumane,M,SHS,Bow and Arrow,1677266,175791,49.50%,SC,1050316
+2014,Maharashtra,Nagpur,10,Gadkari Nitin Jairam,M,BJP,Lotus,1900784,284848,54.17%,GEN,1085038
+2014,Maharashtra,Bhandara - Gondiya,11,Nanabhau Falgunrao Patole,M,BJP,Lotus,1655852,149254,50.63%,GEN,1197196
+2014,Maharashtra,Gadchiroli-Chimur,12,Ashok Mahadeorao Nete,M,BJP,Lotus,1468437,236870,52.18%,ST,1027129
+2014,Maharashtra,Chandrapur,13,Ahir Hansraj Gangaram,M,BJP,Lotus,1753690,236269,45.78%,GEN,1109743
+2014,Maharashtra,Yavatmal-Washim,14,Gawali Bhavana Pundlikrao,F,SHS,Bow and Arrow,1755292,93816,46.27%,GEN,1032949
+2014,Maharashtra,Hingoli,15,Rajeev Shankarrao Satav,M,INC,Hand,1586194,1632,44.46%,GEN,1051164
+2014,Maharashtra,Nanded,16,Ashok Shankarrao Chavan,M,INC,Hand,1687057,81455,48.66%,GEN,1013350
+2014,Maharashtra,Parbhani,17,Jadhav Sanjay (Bandu) Haribhau,M,SHS,Bow and Arrow,1803792,127155,49.77%,GEN,1162233
+2014,Maharashtra,Jalna,18,Danve Raosaheb Dadarao,M,BJP,Lotus,1612056,206798,55.47%,GEN,1066259
+2014,Maharashtra,Aurangabad,19,Chandrakant Bhaurao Khaire,M,SHS,Bow and Arrow,1589395,162000,52.99%,GEN,982933
+2014,Maharashtra,Dindori,20,Chavan Harishchandra Deoram,M,BJP,Lotus,1530208,247619,55.95%,ST,970182
+2014,Maharashtra,Nashik,21,Godse Hemant Tukaram,M,SHS,Bow and Arrow,1593774,187336,52.78%,GEN,937405
+2014,Maharashtra,Palghar,22,Adv. Chintaman Navasha Wanga,M,BJP,Lotus,1578149,239520,53.72%,ST,992618
+2014,Maharashtra,Bhiwandi,23,Kapil Moreshwar Patil,M,BJP,Lotus,1696584,109450,46.95%,GEN,875605
+2014,Maharashtra,Kalyan,24,Dr.Shrikant Eknath Shinde,M,SHS,Bow and Arrow,1922034,250749,53.49%,GEN,824196
+2014,Maharashtra,Thane,25,Vichare Rajan Baburao,M,SHS,Bow and Arrow,2073251,281299,56.48%,GEN,1054189
+2014,Maharashtra,Mumbai North,26,Gopal Chinayya Shetty,M,BJP,Lotus,1783870,446582,70.15%,GEN,946562
+2014,Maharashtra,Mumbai North West,27,Gajanan Chandrakant Kirtikar,M,SHS,Bow and Arrow,1775416,183028,51.91%,GEN,895517
+2014,Maharashtra,Mumbai North East,28,Kirit Somaiya,M,BJP,Lotus,1668357,317122,60.95%,GEN,861761
+2014,Maharashtra,Mumbai North Central,29,Poonam Mahajan Alias Poonam Vajendla Rao,F,BJP,Lotus,1737084,186771,56.61%,GEN,845292
+2014,Maharashtra,Mumbai South Central,30,Rahul Ramesh Shewale,M,SHS,Bow and Arrow,1447886,138180,49.57%,GEN,768627
+2014,Maharashtra,Mumbai South,31,Arvind Sawant,M,SHS,Bow and Arrow,1485844,128564,48.04%,GEN,779741
+2014,Maharashtra,Raigad,32,Anant Geete,M,SHS,Bow and Arrow,1532781,2110,40.11%,GEN,987766
+2014,Maharashtra,Maval,33,Appa Alias Shrirang Chandu Barne,M,SHS,Bow and Arrow,1953741,157397,43.62%,GEN,1174335
+2014,Maharashtra,Pune,34,Anil Shirole,M,BJP,Lotus,1835835,315769,57.37%,GEN,993278
+2014,Maharashtra,Baramati,35,Supriya Sule,F,NCP,Clock,1813553,69719,48.90%,GEN,1066556
+2014,Maharashtra,Shirur,36,Adhalrao Shivaji Dattatrey,M,SHS,Bow and Arrow,1824112,301814,59.06%,GEN,1089506
+2014,Maharashtra,Ahmadnagar,37,Gandhi Dilipkumar Mansukhlal,M,BJP,Lotus,1705005,209122,56.97%,GEN,1062318
+2014,Maharashtra,Shirdi,38,Lokhande Sadashiv Kisan,M,SHS,Bow and Arrow,1462267,199922,57.14%,SC,932645
+2014,Maharashtra,Beed,39,Munde Gopinathrao Pandurang,M,BJP,Lotus,1792652,136454,51.61%,GEN,1232200
+2014,Maharashtra,Osmanabad,40,Gaikwad Ravindra Vishwanath,M,SHS,Bow and Arrow,1759186,234325,54.35%,GEN,1118151
+2014,Maharashtra,Latur,41,Dr. Sunil Baliram Gaikwad,M,BJP,Lotus,1686957,253395,58.32%,SC,1057156
+2014,Maharashtra,Solapur,42,Sharad Bansode,M,BJP,Lotus,1702739,149674,54.44%,SC,951201
+2014,Maharashtra,Madha,43,Mohite Patil Vijaysinh Shankarrao,M,NCP,Clock,1727322,25344,45.39%,GEN,1079619
+2014,Maharashtra,Sangli,44,Sanjaykaka Patil,M,BJP,Lotus,1649107,239292,58.43%,GEN,1046659
+2014,Maharashtra,Satara,45,Shrimant Chh. Udayanraje Pratapsinha Bhonsale,M,NCP,Clock,1719998,366594,53.50%,GEN,976681
+2014,Maharashtra,Ratnagiri - Sindhudurg,46,Vinayak Bhaurao Raut,M,SHS,Bow and Arrow,1367362,150051,55.02%,GEN,896256
+2014,Maharashtra,Kolhapur,47,Dhananjay Bhimrao Mahadik,M,NCP,Clock,1758293,33259,48.22%,GEN,1260289
+2014,Maharashtra,Hatkanangle,48,Raju Shetty,M,SWP,Other,1630604,177810,53.87%,GEN,1188871
